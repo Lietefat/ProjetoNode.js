@@ -1,0 +1,13 @@
+
+<h1>Grade de horária do 1ºSem/2023 </h1>
+
+{{#mostrar}}
+<hr/><li>
+
+ {{#grade}}
+<li>{{.}}</li>
+{{/grade}}
+<li/>
+{{/mostrar}}
+   <hr/>
+  

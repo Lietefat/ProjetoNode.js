@@ -1,0 +1,13 @@
+
+
+<h1> Projeto  Node.js </h1>
+<p> Nome: Eliete Fernandes dos Santos de Sousa Barros<p>
+
+<li>Projeto deve ser realizado de forma individual;</li>
+<li>As paginas devem ser criadas pelo servidor (webserver chamando as estruturas). </li>
+<li>Desenvolver na arquitetura MVC (conforme aula do dia); </li>
+<li> O projeto deve ter 3 rotas diferentes contendo:</li>
+<li> Rota principal: Apresentação do projeto;</li>
+<li> Rota secundária: Apresentar a grade de horário do 1ºSem/2023;</li>
+<li>Rota terciária: Apresentar a estrutura (histórico escolar); </li>
+<li> O projeto deve ser desenvolvido em Node.JS com os frameworks Mustache e Express. </li>
